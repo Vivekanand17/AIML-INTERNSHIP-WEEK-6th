@@ -1,1 +1,1 @@
-# AIML-Internship-Week-6ths
+# AIML-Internship-Week-6th
